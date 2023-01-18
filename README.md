@@ -3,5 +3,5 @@
 <body>
   <h1> Hi stranger, </h1>
 </body>
-<a href="#" onclick="alert('wawan loves you');">click here </a>  
+<a href="#" onclick="alert('Does he ?');">click here </a>  
 </html>
